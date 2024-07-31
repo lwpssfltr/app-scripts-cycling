@@ -15,7 +15,6 @@ function new_entry_trigger(e) {
       case "tolik2023":
       case "tolik2024":
         newEntry(sheet);
-        //Browser.msgBox('=HYPERLINK("http://sas.com"; "tunis (stx 7) [3]")');
         break;
     }
   }
